@@ -14,6 +14,8 @@ Octopus: Agile tariff time series (can use existing scraper for this)
 Nice to have: Ofgem: Default Tariff Cap methodology and quarterly cap levels (breaks down wholesale cost, network cost, policy cost, operating cost, margin)
 National Grid’s Future Energy Scenarios
 
+bring in ancillary market revenue data (FFR, DC, DM). and also the wind and solar total national deployments - UK only. the time series of all these.
+
 The idea is to get all components of the mini model, so i can froecasting the wholesale spread in the long run into the furture (every month for next 5 years). Ideas are belw
 
 Component 1: UK batteries forecast
